@@ -1,0 +1,4 @@
+HOSTPORT: 172.30.27.23:9200
+LIMIT: 10  # So luong snapshots toi da (so ngay)
+REPO: repo3
+USE_SEARCHGUARD: 1

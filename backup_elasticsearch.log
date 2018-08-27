@@ -1,0 +1,169 @@
+2018-08-24 16:48:51,678 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 16:50:37,623 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-24
+2018-08-24 16:52:10,857 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 16:52:10,877 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-24 16:52:15,032 - INFO - Taking snapshot: snapshot-2018-08-25 ...
+2018-08-24 16:52:34,440 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-25
+2018-08-24 16:52:46,287 - INFO - Deleting snapshot: snapshot-2018-08-25 ...
+2018-08-24 16:53:01,729 - INFO - Snapshot was be deleted: snapshot-2018-08-25
+2018-08-24 16:55:42,644 - INFO - Taking snapshot: snapshot-2018-08-25 ...
+2018-08-24 16:55:45,435 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-25
+2018-08-24 16:58:30,749 - INFO - Deleting snapshot: snapshot-2018-08-25 ...
+2018-08-24 16:58:32,166 - INFO - Snapshot was be deleted: snapshot-2018-08-25
+2018-08-24 16:58:35,707 - INFO - Deleting snapshot: snapshot-2018-08-24 ...
+2018-08-24 16:58:36,041 - INFO - Snapshot was be deleted: snapshot-2018-08-24
+2018-08-24 17:17:01,549 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:17:01,549 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:17:13,032 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:18:01,699 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:18:01,699 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:18:39,668 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-24
+2018-08-24 17:19:01,864 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:19:01,864 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:20:01,994 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:20:01,994 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:21:01,133 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:21:01,134 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:22:01,271 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:22:01,272 - ERROR - Take snapshot failed! Something went wrong.
+2018-08-24 17:26:20,098 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:26:20,366 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-24 17:26:39,265 - INFO - Deleting snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:26:39,607 - INFO - Snapshot was be deleted: snapshot-2018-08-24
+2018-08-24 17:26:41,761 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:28:10,661 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-24
+2018-08-24 17:29:49,460 - INFO - Deleting snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:29:49,460 - ERROR - Delete snapshot failed ! Something went wrong.
+2018-08-24 17:30:04,987 - INFO - Taking snapshot: snapshot-2018-08-25 ...
+2018-08-24 17:30:51,171 - INFO - Taking snapshot: snapshot-2018-08-25 ...
+2018-08-24 17:31:08,544 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-25
+2018-08-24 17:39:01,628 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:39:01,650 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-24 17:40:01,791 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:40:01,812 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-24 17:41:01,945 - INFO - Taking snapshot: snapshot-2018-08-24 ...
+2018-08-24 17:41:01,964 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-24] Invalid snapshot name [snapshot-2018-08-24], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-25 00:00:01,418 - INFO - Taking snapshot: snapshot-2018-08-25 ...
+2018-08-25 00:00:01,689 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-25] Invalid snapshot name [snapshot-2018-08-25], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-25] Invalid snapshot name [snapshot-2018-08-25], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-26 00:00:01,609 - INFO - Taking snapshot: snapshot-2018-08-26 ...
+2018-08-26 00:00:23,732 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-26
+2018-08-27 00:00:01,210 - INFO - Taking snapshot: snapshot-2018-08-27 ...
+2018-08-27 00:00:19,363 - INFO - Take snapshot done! Snapshot name: snapshot-2018-08-27
+2018-08-27 09:30:19,421 - INFO - Taking snapshot: snapshot-2018-08-27 ...
+2018-08-27 09:30:19,689 - ERROR - Take snapshot failed! The snapshot has not been created yet. Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "invalid_snapshot_name_exception",
+        "reason" : "[repo3:snapshot-2018-08-27] Invalid snapshot name [snapshot-2018-08-27], snapshot with the same name already exists"
+      }
+    ],
+    "type" : "invalid_snapshot_name_exception",
+    "reason" : "[repo3:snapshot-2018-08-27] Invalid snapshot name [snapshot-2018-08-27], snapshot with the same name already exists"
+  },
+  "status" : 400
+}
+
+2018-08-27 09:31:39,705 - INFO - Deleting snapshot: 2018-08-24 ...
+2018-08-27 09:31:39,720 - ERROR - Delete snapshot failed! Detail:
+{
+  "error" : {
+    "root_cause" : [
+      {
+        "type" : "snapshot_missing_exception",
+        "reason" : "[repo3:2018-08-24] is missing"
+      }
+    ],
+    "type" : "snapshot_missing_exception",
+    "reason" : "[repo3:2018-08-24] is missing"
+  },
+  "status" : 404
+}
+
+2018-08-27 09:31:50,668 - INFO - Deleting snapshot: snapshot-2018-08-24 ...
+2018-08-27 09:32:05,985 - INFO - Snapshot was be deleted: snapshot-2018-08-24
