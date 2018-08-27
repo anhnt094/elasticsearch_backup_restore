@@ -36,6 +36,7 @@ def take_snapshot(hostport, repo_name, snapshot_name, use_searchguard):
 
     try:
         my_log.info('Taking snapshot: {} ...'.format(snapshot_name))
+        print('Taking snapshot: {} ...'.format(snapshot_name))
         if use_searchguard:
             data = load_config('{}/credentials.yaml'.format(config_dir))
             user = data['user']
@@ -139,6 +140,7 @@ def delete_snapshot(hostport, repo_name, snapshot_name, use_searchguard):
 
     try:
         my_log.info('Deleting snapshot: {} ...'.format(snapshot_name))
+        print('Deleting snapshot: {} ...'.format(snapshot_name))
         if use_searchguard:
             data = load_config('{}/credentials.yaml'.format(config_dir))
             user = data['user']
